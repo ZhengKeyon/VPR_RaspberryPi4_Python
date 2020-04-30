@@ -1,0 +1,8 @@
+setup.py
+lib/waveshare_epd/__init__.py
+lib/waveshare_epd/epd1in54_V2.py
+lib/waveshare_epd/epdconfig.py
+lib/waveshare_epd.egg-info/PKG-INFO
+lib/waveshare_epd.egg-info/SOURCES.txt
+lib/waveshare_epd.egg-info/dependency_links.txt
+lib/waveshare_epd.egg-info/top_level.txt
